@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+#red{ 
+    color:red;
+    font: sizepx 30px;
+    font-style: italic;
+    letter-spacing: 10px;
+    word-spacing: 5px;
+    text-align: justify;
+    font-size: fantasy;
+    font-family: "Noto Sans JP", sans-serif;
+    text-transform: uppercase;
+    line-height: 30px;
+}
+a{
+    text-decoration: anderson;
+    
+}
+
